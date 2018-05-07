@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot-REST
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: bandaru
+Implementation-Vendor-Id: SpringBoot-REST
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBoot-R
+ EST/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

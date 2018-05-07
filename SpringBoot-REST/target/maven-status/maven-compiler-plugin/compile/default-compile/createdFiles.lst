@@ -1,0 +1,5 @@
+com\anilnayak\user\User.class
+com\anilnayak\user\JerseydemoApplication.class
+com\anilnayak\user\Users.class
+com\anilnayak\user\UserResource.class
+com\anilnayak\user\JerseyConfig.class
